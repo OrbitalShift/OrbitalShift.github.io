@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-OS_Symbol_-_8pt_Rounded_2_Tone_Orange);
+      }
+
+      .cls-2 {
+        fill: #c60;
+      }
+
+      .cls-3 {
+        fill: #930;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-OS_Symbol_-_8pt_Rounded_2_Tone_Orange">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="OS_Symbol_-_8pt_Rounded_2_Tone_Orange" data-name="OS Symbol - 8pt Rounded &amp; 2 Tone Orange" class="cls-1">
+    <rect class="cls-4" width="512" height="512"/>
+    <g id="Group_7602" data-name="Group 7602" transform="translate(-58 -48)">
+      <g id="OS_Symbol_Rounded_8pt_2_color_shadow_-_12.4.19" data-name="OS Symbol Rounded 8pt (2 color shadow) - 12.4.19" transform="translate(122 145)">
+        <g id="Group_1702" transform="translate(0 18.494)">
+          <path id="Path_756" data-name="Path 756" class="cls-2" d="M177.767,24.376v74.5a11.5,11.5,0,0,1-5.018,9.456l-64.512,44.416a11.513,11.513,0,0,0,0,18.913l64.512,44.416a11.5,11.5,0,0,1,5.018,9.456V299.9a11.472,11.472,0,0,1-17.777,9.6L5.161,207.2A11.7,11.7,0,0,1,0,197.6V125.388a11.7,11.7,0,0,1,5.161-9.6L159.991,14.777A11.472,11.472,0,0,1,177.767,24.376Z" transform="translate(0 -12.868)"/>
+          <path id="Path_757" data-name="Path 757" class="cls-2" d="M144,300.045v-74.5a11.5,11.5,0,0,1,5.018-9.456l64.512-44.416a11.513,11.513,0,0,0,0-18.913l-64.512-44.416A11.5,11.5,0,0,1,144,98.881v-74.5a11.472,11.472,0,0,1,17.777-9.6l154.83,101.012a11.346,11.346,0,0,1,5.161,9.6v73.5a11.7,11.7,0,0,1-5.161,9.6L161.777,309.5A11.374,11.374,0,0,1,144,300.045Z" transform="translate(62.233 -12.868)"/>
+        </g>
+        <g id="Group_1702_1_" transform="translate(0 1)">
+          <path id="Path_758" data-name="Path 758" class="cls-3" d="M177.767,11.452v74.5a11.5,11.5,0,0,1-5.018,9.456L108.237,139.83a11.513,11.513,0,0,0,0,18.913l64.512,44.416a11.5,11.5,0,0,1,5.018,9.456v74.362a11.472,11.472,0,0,1-17.777,9.6L5.161,194.276A11.7,11.7,0,0,1,0,184.676V112.607a11.7,11.7,0,0,1,5.161-9.6L159.991,2A11.416,11.416,0,0,1,177.767,11.452Z" transform="translate(0 0.056)"/>
+          <path id="Path_759" data-name="Path 759" class="cls-3" d="M144,287.145v-74.5a11.5,11.5,0,0,1,5.018-9.456l64.512-44.416a11.513,11.513,0,0,0,0-18.913L149.018,95.438A11.5,11.5,0,0,1,144,85.981v-74.5a11.472,11.472,0,0,1,17.777-9.6l154.83,101.012a11.346,11.346,0,0,1,5.161,9.6v73.5a11.7,11.7,0,0,1-5.161,9.6L161.777,296.6A11.374,11.374,0,0,1,144,287.145Z" transform="translate(62.233 0.032)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
