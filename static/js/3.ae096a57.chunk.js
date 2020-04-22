@@ -1,0 +1,2 @@
+(this["webpackJsonpcom.orbitalshift.app"]=this["webpackJsonpcom.orbitalshift.app"]||[]).push([[3],{266:function(t,n,o){"use strict";o.r(n),o.d(n,"startStatusTap",(function(){return e}));var i=o(26),e=function(){var t=window;t.addEventListener("statusTap",(function(){Object(i.h)((function(){var n=t.innerWidth,o=t.innerHeight,e=document.elementFromPoint(n/2,o/2);if(e){var c=e.closest("ion-content");c&&c.componentOnReady().then((function(){Object(i.n)((function(){return c.scrollToTop(300)}))}))}}))}))}}}]);
+//# sourceMappingURL=3.ae096a57.chunk.js.map
