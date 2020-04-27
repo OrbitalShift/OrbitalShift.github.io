@@ -13,8 +13,8 @@
     "static/js/5.2a6c90a2.chunk.js": "/static/js/5.2a6c90a2.chunk.js",
     "static/js/5.2a6c90a2.chunk.js.map": "/static/js/5.2a6c90a2.chunk.js.map",
     "main.css": "/static/css/main.cd3e2928.chunk.css",
-    "main.js": "/static/js/main.0f7e60c5.chunk.js",
-    "main.js.map": "/static/js/main.0f7e60c5.chunk.js.map",
+    "main.js": "/static/js/main.aeff1e03.chunk.js",
+    "main.js.map": "/static/js/main.aeff1e03.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6607f32d.js",
     "runtime-main.js.map": "/static/js/runtime-main.6607f32d.js.map",
     "stencil-ion-avatar_3-ios-entry-js.js": "/static/js/stencil-ion-avatar_3-ios-entry-js.65016d2d.chunk.js",
@@ -187,7 +187,7 @@
     "static/js/91.2971be8c.chunk.js": "/static/js/91.2971be8c.chunk.js",
     "static/js/91.2971be8c.chunk.js.map": "/static/js/91.2971be8c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ab6af030b31dacecfca81cc5bf0ed85f.js": "/precache-manifest.ab6af030b31dacecfca81cc5bf0ed85f.js",
+    "precache-manifest.61ac79b5ee307a00e365aa7dba27dba8.js": "/precache-manifest.61ac79b5ee307a00e365aa7dba27dba8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/51.2bd8f0e0.chunk.css.map": "/static/css/51.2bd8f0e0.chunk.css.map",
     "static/css/main.cd3e2928.chunk.css.map": "/static/css/main.cd3e2928.chunk.css.map",
@@ -201,6 +201,6 @@
     "static/css/51.2bd8f0e0.chunk.css",
     "static/js/51.c006bb27.chunk.js",
     "static/css/main.cd3e2928.chunk.css",
-    "static/js/main.0f7e60c5.chunk.js"
+    "static/js/main.aeff1e03.chunk.js"
   ]
 }
